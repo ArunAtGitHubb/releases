@@ -10,6 +10,8 @@ To download a specific release, locate the desired version and click on the down
 
 ## Usage
 
+First Switch to master branch then downlaod what you want
+
 To use a particular release, download the release package and extract its contents. Follow any installation instructions or documentation provided within the release to get started with the specific version of the project.
 
 ## Contributing
